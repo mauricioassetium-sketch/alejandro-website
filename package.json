@@ -1,0 +1,9 @@
+#
+  "name": "alejandro-website",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "build": "/: no build step - static html",
+    "test": "echo no tests"
+  }
+}
